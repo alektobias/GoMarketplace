@@ -6,14 +6,27 @@
   </a>
 </p>
 
-> a simple project to control your financial incomes and outcomes
+> A demo for mobile stores
+
+## Screenshots 
+
+![Listed Items](Listagem.png)
+![Cart](Carrinho.png)
 
 
-## Install
+## Runnig
 
 ```sh
 yarn install
 ```
+
+```sh
+yarn android || yarn ios
+```
+```sh
+yarn start
+```
+
 
 ## Author
 
